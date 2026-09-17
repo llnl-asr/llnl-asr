@@ -31,6 +31,6 @@ All code under the ASR organization and its projects is intended to be released 
 
 ## LLNL Release Information
 
-LLNL-CODE-[RELEASE NUMBER]  
+LLNL-CODE-2024514  
 Applied Storage Research (ASR)  
 Lawrence Livermore National Laboratory
